@@ -244,8 +244,6 @@ while (1000*optimal_F + 600*optimal_R + 750*optimal_C) <= 18000:
 
 print(f"{optimal_F},{optimal_R},{optimal_C}")
 
-if 
-
 
 # In[73]:
 
